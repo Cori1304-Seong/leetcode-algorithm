@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
