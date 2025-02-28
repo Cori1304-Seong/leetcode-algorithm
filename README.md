@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
