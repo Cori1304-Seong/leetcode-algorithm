@@ -3,7 +3,6 @@ import java.util.*;
 
 class Solution {
     public String reverseVowels(String s) {
-        // char [] chArr = {'a','e','i','o','u','A','E','I','O','U'};
         Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u','A','E','I','O','U'));
         List<Integer> integerList = new ArrayList<>();
         List<Character> characterList = new ArrayList<>();
@@ -14,7 +13,6 @@ class Solution {
             if (vowels.contains(ch)){
                 integerList.add(i);
                 characterList.add(ch);
-                // System.out.println(ch);
             }
         }
        int size = characterList.size();
@@ -23,8 +21,6 @@ class Solution {
              Character charater = characterList.get( size- i -1); 
              chArr[integer] = charater;
             
-            // System.out.println(charater);
-
 
         }
         return new String(chArr);
