@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0605-can-place-flowers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
