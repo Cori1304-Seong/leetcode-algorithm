@@ -11,17 +11,10 @@ class Solution {
             }else has.put(str, 1);
         }
 
-        String[] keys = has.keySet().toArray(new String[0]);
-       List<Integer> occurCounts = new ArrayList<>();
+        HashSet<Integer> valueSet = new HashSet<>(has.values());
 
-        for (String key: keys){
-            int count = has.get(key);
+        return (valueSet.size() == has.size());
 
-            if (occurCounts.contains(count)) return false;
-
-            occurCounts.add(count);
-
-        }      
- return true;
+       
     }
 }
