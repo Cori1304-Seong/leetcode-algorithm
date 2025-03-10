@@ -5,10 +5,8 @@ class Solution {
 
         for (int i=0; i < arr.length ; i++){
             int key = arr[i];
-            if (has.containsKey(key)){
-                int val = has.get(key);
-                has.replace(key, val + 1);
-            }else has.put(key, 1);
+            has.put(key, has.getOrDefault(key, 0) + 1);
+
         }
 
         HashSet<Integer> valueSet = new HashSet<>(has.values());
