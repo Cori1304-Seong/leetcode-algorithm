@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
+| [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1319-unique-number-of-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
