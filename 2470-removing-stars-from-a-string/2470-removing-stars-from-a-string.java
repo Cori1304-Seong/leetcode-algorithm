@@ -1,24 +1,24 @@
 class Solution {
     public String removeStars(String s) {
-        Stack<Character> stack = new Stack();
+        Deque<Character> deque = new ArrayDeque<>();
         StringBuilder answer = new StringBuilder();
        
 
         for (int i=0; i< s.length(); i++){
             char ch = s.charAt(i);
             if ( ch != '*'){
-                stack.add(ch);
+                deque.addLast(ch);
             }
-            else if (!stack.isEmpty() && ch =='*') stack.pop();
+            else if (!deque.isEmpty() && ch =='*') deque.removeLast();
         }
 
-        while (!stack.isEmpty()) 
-         
+        while (!deque.isEmpty()) 
         {
-           Character ch1 = stack.pop();
+           Character ch1 = deque.removeFirst();
             answer.append(ch1);
             }
         
-        return answer.reverse().toString();
+
+        return answer.toString();
     }
 }
