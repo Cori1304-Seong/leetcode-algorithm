@@ -16,7 +16,6 @@ class Solution {
           
          {
             Character ch1 = stack.pop();
-             System.out.printf("%c", ch1);
              answer.append(ch1);
              }
          
