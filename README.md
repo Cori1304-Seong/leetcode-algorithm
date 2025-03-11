@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1319-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
