@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0735-asteroid-collision) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
