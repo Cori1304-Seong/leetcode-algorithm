@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0969-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
