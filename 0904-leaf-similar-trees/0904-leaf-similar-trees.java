@@ -29,8 +29,8 @@ class Solution {
         int[] arr2 = list2.stream().mapToInt(Integer::intValue).toArray();
 
 
-        System.out.println("root1: " + Arrays.toString(arr1));
-        System.out.println("root2: " + Arrays.toString(arr2));
+        // System.out.println("root1: " + Arrays.toString(arr1));
+        // System.out.println("root2: " + Arrays.toString(arr2));
 
       
 
