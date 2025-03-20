@@ -25,17 +25,10 @@ class Solution {
         DFS(root2, list2);
 
         // int[] arr1 = list1.stream().mapToInt(Integer::intValue).toArray();
-        int[] arr1 = list1.stream().mapToInt(Integer::intValue).toArray();
-        int[] arr2 = list2.stream().mapToInt(Integer::intValue).toArray();
+        // int[] arr1 = list1.stream().mapToInt(Integer::intValue).toArray();
+        // int[] arr2 = list2.stream().mapToInt(Integer::intValue).toArray();
 
-
-        // System.out.println("root1: " + Arrays.toString(arr1));
-        // System.out.println("root2: " + Arrays.toString(arr2));
-
-      
-
-
-        return Arrays.equals(arr1, arr2);
+        return list1.equals(list2);
 
         
     }
