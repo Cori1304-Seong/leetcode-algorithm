@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0904-leaf-similar-trees) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
