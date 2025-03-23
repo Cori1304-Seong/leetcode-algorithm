@@ -2,18 +2,18 @@
 
 
 SELECT 
-    customer_id, 
+          customer_id, 
     COUNT(*) AS count_no_trans
     FROM 
-        Visits
+        Visits V
     WHERE 
-        visit_id NOT IN (
+        V.visit_id NOT IN (
             SELECT 
-                visit_id
+                T.visit_id
             FROM 
-                Transactions
+                Transactions T
         )
     GROUP BY 
         customer_id
     ORDER BY 
-        count_no_trans DESC; 
+        count_no_trans; 
