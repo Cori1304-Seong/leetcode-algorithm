@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0649-dota2-senate) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0649-dota2-senate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
