@@ -9,27 +9,18 @@ class Solution {
     public void moveZeroes(int[] nums) {
         int zeroCount = 0;
         int len = nums.length;
+        int insertIdx = 0;
 
-        for (int i =0 ;i < len; i++){
-            if (nums[i] == 0) zeroCount++;
+        for (int num : nums) {
+            if (num != 0) {
+                nums[insertIdx++] = num;
+            }
         }
 
-        int fitIdx = 0;
-        for (int i = 0 ; i < len; i++) {
-            if (fitIdx > len-1 - zeroCount)
-                break;
-            
-            if (nums[i] == 0) continue;
+        while(insertIdx < len) nums[insertIdx++] = 0;
 
-            nums[fitIdx] = nums[i] ; 
-            fitIdx++; 
-        }
+        
 
-        while(zeroCount > 0){
-            nums[len- zeroCount] = 0;
-            zeroCount--;
-        }
-        // return nums;
         
     }
 }
