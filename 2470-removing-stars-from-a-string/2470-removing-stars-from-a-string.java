@@ -4,19 +4,26 @@ class Solution {
         StringBuilder strBu = new StringBuilder();
         String[] strArr = s.split("");
 
-        for (String str: strArr){
-            if (str.equals("*")){
-                if (!stack.isEmpty()) stack.pop();
+        for (int i = 0 ; i < strArr.length ; i++){
+            // System.out.printf("%s", str);
+            if (strArr[i].equals("*")){
+                int len = strBu.length();
+                // if (!stack.isEmpty()) stack.pop();
+                if (len-1 >= 0  ) strBu.delete(len-1,len);
                 continue;
             }
 
 
-            stack.add(str);
+           strBu.append(strArr[i]);
         }
 
-        for(String str: stack){
-            strBu.append(str);
-        }
+        // System.out.println();
+
+        // for(String str: stack)  {
+        //     System.out.printf("%s", str);
+
+        //     strBu.append(str);
+        // }
 
         
 
