@@ -1,6 +1,6 @@
 class Solution {
     public String removeStars(String s) {
-        Stack<String> stack = new Stack();
+        // Stack<String> stack = new Stack();
         StringBuilder strBu = new StringBuilder();
         String[] strArr = s.split("");
 
