@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1319-unique-number-of-occurrences) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Stack
 |  |
 | ------- |
