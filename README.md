@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0649-dota2-senate) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Array
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0009-palindrome-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
