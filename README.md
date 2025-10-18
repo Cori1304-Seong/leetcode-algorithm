@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0649-dota2-senate) |
+| [1894-merge-strings-alternately](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
