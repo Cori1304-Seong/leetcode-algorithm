@@ -1,28 +1,31 @@
-import java.util.*;
-
-
 class Solution {
     public String reverseVowels(String s) {
-        Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u','A','E','I','O','U'));
-        List<Integer> integerList = new ArrayList<>();
-        List<Character> characterList = new ArrayList<>();
-        char[] chArr = s.toCharArray();
+        int leftP  = 0;
+        int rightP = s.length() - 1;
+        char[] chars = s.toCharArray();
 
-        for (int i=0; i < s.length();i++){
-            char ch=s.charAt(i);
-            if (vowels.contains(ch)){
-                integerList.add(i);
-                characterList.add(ch);
-            }
-        }
-       int size = characterList.size();
-        for (int i = size  - 1; i >= 0; i--){
-             Integer integer = integerList.get(i);
-             Character charater = characterList.get( size- i -1); 
-             chArr[integer] = charater;
+        while (leftP < rightP) {
+
+            while (leftP < rightP && !isVowel(chars[leftP]) ) leftP++;
             
+            while (leftP < rightP && !isVowel(chars[rightP])) rightP--;
+            
+            if (leftP < rightP) {
+                    char temp = chars[leftP];
+                    chars[leftP] = chars[rightP];
+                    chars[rightP] = temp;
+                    
+                    leftP++;
+                    rightP--;
+            }
 
         }
-        return new String(chArr);
+            return new String(chars);
+
+    }
+
+    boolean isVowel(char c) {
+        c = Character.toLowerCase(c);
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 }
