@@ -1,22 +1,22 @@
+import java.util.*;
+
 class Solution {
     public String reverseWords(String s) {
         String[] strArr = s.split(" ");
-        StringBuilder strBu = new StringBuilder();
+        StringBuilder answer = new StringBuilder();
+        for (int i= strArr.length -1 ; i >= 0 ; i--) {
+            String str = strArr[i];
 
-        for (int i= strArr.length -1; i >= 0; i--){
-             if (strArr[i].length() == 0  )
-                continue;
-        //    System.out.println("a" +strArr[i] +"a");
-           
-           
-            if (i != strArr.length -1) strBu.append(" ");
-            strBu.append(strArr[i]);
-            
+            if (str.contains(" ")) continue;
+
+            if (i < strArr.length -1 && strArr[i].matches("[a-zA-Z0-9]+")  ) answer.append(" ");
+
+            answer.append(str);
+
+
         }
+        return answer.toString();
 
-
-
-
-        return strBu.toString();        
     }
+
 }
