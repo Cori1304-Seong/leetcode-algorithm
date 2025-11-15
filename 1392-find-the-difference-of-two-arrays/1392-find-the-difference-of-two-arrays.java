@@ -9,10 +9,14 @@ class Solution {
     List<List<Integer>> answer = new ArrayList();
     Set<Integer> set1 = new HashSet();
     Set<Integer> set2 = new HashSet();   
-    List<Integer> temp = new ArrayList(); // 중복되는 원소 저장
+    // List<Integer> temp = new ArrayList(); // 중복되는 원소 저장 
+    // answer.add(new ArrayList());
+    // answer.add(new ArrayList());
+    List<Integer> list1 = new ArrayList();
+    List<Integer> list2 = new ArrayList();
 
-    answer.add(new ArrayList());
-    answer.add(new ArrayList());
+
+
 
 
     for (int n: nums1) {
@@ -24,27 +28,42 @@ class Solution {
     }
 
 
-    for (int n: set1){
-        if (set2.contains(n)){
-            temp.add(n);
-        }
-    }
+    // for (int n: set1){
+    //     if (set2.contains(n)){
+    //         temp.add(n);
+    //     }
+    // }
 
-    for (int n:temp) {
-        set1.remove(n);
-        set2.remove(n);
-    }
+    // for (int n:temp) {
+    //     set1.remove(n);
+    //     set2.remove(n);
+    // }
 
+    // 앞에 for문 2개를 없에 후 결과
+    //     answer.get(0).add(n);
+    // }
+
+    // for(int n: set2){
+    //     answer.get(1).add(n);
+    // }
+
+
+    // num1 답 추가 
     for(int n: set1){
-        answer.get(0).add(n);
+        if (!set2.contains(n)) list1.add(n);
     }
 
+    // num2 답 추가 
     for(int n: set2){
-        answer.get(1).add(n);
+        if (!set1.contains(n)) list2.add(n);
     }
 
-    answer.get(0).sort((a,b) -> a.compareTo(b));
-    answer.get(1).sort((a,b) -> a.compareTo(b));
+
+    list1.sort((a,b) -> a.compareTo(b));
+    list2.sort((a,b) -> a.compareTo(b));
+
+    answer.add(list1);
+    answer.add(list2);
 
 
     return answer;
