@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0392-is-subsequence) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0062-unique-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/1777-determine-if-two-strings-are-close) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Cori1304-Seong/leetcode-algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
