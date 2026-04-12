@@ -1,9 +1,6 @@
 # Write your MySQL query statement below
 
-select 
-          name
-        , population
-        , area
-     from World
-    where area >= 3000000
-      or population >= 25000000; 
+SELECT W.name, W.population, W.area FROM World AS W
+    WHERE 
+        W.area >= 3000000 
+    OR W.population >= 25000000;
